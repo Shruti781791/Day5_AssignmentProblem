@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Day5_assignment
 {
-    public class Quotient
+    internal class Quotient
 
     {
-        public static void xyz ()
-        {
+        public static void Reminder()
+        { 
         int dividend = 50, divisor = 8;
+
         int quotient = dividend / divisor;
         int remainder = dividend % divisor;
 
@@ -21,4 +22,5 @@ namespace Day5_assignment
             Console.ReadLine();
         }
 }
-}
+    }
+
