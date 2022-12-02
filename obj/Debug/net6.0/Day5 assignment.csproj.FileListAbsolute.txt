@@ -1,0 +1,15 @@
+D:\DLSRFP231\Day5 assignment\bin\Debug\net6.0\Day5 assignment.exe
+D:\DLSRFP231\Day5 assignment\bin\Debug\net6.0\Day5 assignment.deps.json
+D:\DLSRFP231\Day5 assignment\bin\Debug\net6.0\Day5 assignment.runtimeconfig.json
+D:\DLSRFP231\Day5 assignment\bin\Debug\net6.0\Day5 assignment.dll
+D:\DLSRFP231\Day5 assignment\bin\Debug\net6.0\Day5 assignment.pdb
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.csproj.AssemblyReference.cache
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.AssemblyInfoInputs.cache
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.AssemblyInfo.cs
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.csproj.CoreCompileInputs.cache
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.dll
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\refint\Day5 assignment.dll
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.pdb
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\Day5 assignment.genruntimeconfig.cache
+D:\DLSRFP231\Day5 assignment\obj\Debug\net6.0\ref\Day5 assignment.dll
